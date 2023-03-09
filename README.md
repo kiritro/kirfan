@@ -6,6 +6,8 @@
 
 驱动pcb使用esp8266，自带两颗rgb灯，自带cp2012插电脑即可烧录，拨轮开关可设置多项功能。
 
+PCB开源地址：https://oshwhub.com/kiritro/kir_fan_mb
+
 pcb效果图：
 
 ![image](https://github.com/kiritro/kirfan/blob/main/image/pcb.png)
